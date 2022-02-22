@@ -10,7 +10,7 @@ At Northcoders, I gained experience in backend development, front end developmen
 
 
 **Links to my projects and portfolio are listed below.**
-- Personal portfolio - https://github.com/milcroft/darrens-portfolio
+- Personal portfolio - https://darrens-portfolio.netlify.app/
 - Backend project: News API - https://github.com/milcroft/nc-news-api
 - Frontend project: React UI - https://github.com/milcroft/fe-react-nc-news
 - Group project: React Native - https://github.com/milcroft/fridge-tracker
