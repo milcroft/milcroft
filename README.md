@@ -1,5 +1,5 @@
 # Hi, there 👋 I'm Darren
-I'm an aspiring full-stack web developer from Greater Manchester. I have just completed a 13 week Bootcamp at Northcoders. I am now looking for a position as a junior developer.
+An Aspiring full-stack developer. Who likes to build things with code. I am adaptable and capable of learning new skills and concepts fast. Having; completed the Northocoders Bootcamp. I am now looking for my first role as a junior developer.
 
 At Northcoders, I gained experience in backend development, front end development and test-driven development. The course covered a wide range of topics; JavaScript, Express, PostgreSQL, React, HTML, CSS, Jest, git and node.
 
