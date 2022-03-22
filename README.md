@@ -3,7 +3,7 @@ An Aspiring full-stack developer. Who likes to build things with code. I am adap
 
 At Northcoders, I gained experience in backend development, front end development and test-driven development. The course covered a wide range of topics; JavaScript, Express, PostgreSQL, React, HTML, CSS, Jest, git and node.
 
-**Northcoder Projects**
+**Northcoders Projects**
 - Backend RESTful API for a news website using test-driven development.
 - A React user interface for displaying data from a backend API.
 - A React Native mobile application for tracking food expiration dates.
